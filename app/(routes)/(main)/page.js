@@ -26,5 +26,10 @@ const content = [
     title: 'Probability Distribution Calculator',
     link: 'https://probability.prolly-yes.com',
     desc: 'The project aims to create a simple and graphical interface for probability related tasks. With support of most commonly used probability distributions, including normal distribution, binomial distribution, possion distribution, beta distribution, etc, it generates formulas and plots for probability density functions (pdf) and cumulative distribution functions (cdf).'
+  },
+  {
+    title: 'Statistical Tests',
+    link: 'https://statistics.prolly-yes.com',
+    desc: 'Pending. It aims to provide a visual way to perform statistical tests.'
   }
 ]
